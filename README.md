@@ -21,4 +21,4 @@ Metrics such as Gross Profit, Contribution %, Top Orders by Sales, Average Gross
 Proposed Solutions:
 Boost production by introducing initiatives like memberships, gift vouchers, bundled offers, student discounts, and other attractive promotions to enhance customer engagement and sales.
 
-LinkdIn Presentation link :
+LinkdIn Presentation link : https://www.linkedin.com/posts/harsh-pratap-singh-hps7_datafam-connections-dataanalytics-activity-7271773360160743424-ZOnT?utm_source=share&utm_medium=member_desktop
